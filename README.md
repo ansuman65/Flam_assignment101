@@ -27,9 +27,6 @@
   - `npx tsc`
   - Open `web/index.html` in a browser. Edit the inline `placeholder` string to a base64 PNG to preview.
 
-## Repo / Submission
-- Commit regularly with meaningful messages.
-- Include screenshots or a GIF in this README when ready.
 
 ## Notes
 - Package: `com.azurex.flam_assignment1`.
